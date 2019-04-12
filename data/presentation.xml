@@ -1,25 +1,10 @@
 <?xml version="1.0"?>
-<presentation title="HIS" width="1280.0000000" height="720.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{D8E5E279-810F-4A5C-AA2C-5AE69CEE7E9D}">
+<presentation title="HIS" width="1280.0000000" height="720.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{326F77F3-7753-43C1-80F1-039AE49C6E7B}">
 	<presenters/>
 	<references/>
 	<soundAssets/>
 	<sharedAssetsLibrary src="assets.swf"/>
-	<graphicAssets>
-		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
-		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
-		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
-		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
-		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
-		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
-		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
-		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
-		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
-		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
-		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
-		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
-		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
-		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
-	</graphicAssets>
+	<graphicAssets/>
 	<playlists/>
 	<narration/>
 	<settings>
@@ -77,7 +62,7 @@
 			<gesture zoom="1"/>
 		</navigation>
 		<skin>
-			<currentTemplate id="SIMPLE_COURSE"/>
+			<currentTemplate id="CONTENT_ONLY"/>
 			<colorSettings>
 				<color id="button.content.normal">#FFFFFF</color>
 				<color id="button.content.over">#FFFFFF</color>
@@ -101,17 +86,17 @@
 				<color id="text">#4D4D4D</color>
 			</colorSettings>
 			<controlPanelSettings>
-				<visible>true</visible>
-				<showOutline>true</showOutline>
-				<showPlayPause>false</showPlayPause>
+				<visible>false</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
 				<showRewind>false</showRewind>
-				<showVolumeControl>false</showVolumeControl>
+				<showVolumeControl>true</showVolumeControl>
 				<showCCButton>false</showCCButton>
 				<showPrevButton>true</showPrevButton>
 				<showNextButton>true</showNextButton>
-				<showSlideOnlyButton>false</showSlideOnlyButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
 				<progressBar>
-					<visible>false</visible>
+					<visible>true</visible>
 					<enabled>true</enabled>
 					<showLabels>true</showLabels>
 					<mode>slideTimeline</mode>
@@ -143,7 +128,7 @@
 				<showPresenterVideo>false</showPresenterVideo>
 				<visible>false</visible>
 				<tabsPanel>
-					<showOutline>false</showOutline>
+					<showOutline>true</showOutline>
 					<showNotes>true</showNotes>
 				</tabsPanel>
 			</sidePanelSettings>
@@ -152,7 +137,7 @@
 		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
 	</settings>
 	<slides embedded="0">
-		<slide index="0" title="WELCOME TO THE MUSIC BUILDING" titleNormalized="welcome to the music building" src="slide1.swf" size="2612" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset0">
+		<slide index="0" title="WELCOME TO THE MUSIC BUILDING" titleNormalized="welcome to the music building" src="slide1.swf" size="2618" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -169,7 +154,7 @@ School Floor Plan
 Getting Around UEA
 Student Hubs</text>
 		</slide>
-		<slide index="1" title="YOU ARE CURRENTLY ON FLOOR 0" titleNormalized="you are currently on floor 0" src="slide2.swf" size="41222" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset1">
+		<slide index="1" title="YOU ARE CURRENTLY ON FLOOR 0" titleNormalized="you are currently on floor 0" src="slide2.swf" size="41207" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -193,7 +178,7 @@ Floor 0 – numbered 0.xx
 HOME
 Floor Plans</text>
 		</slide>
-		<slide index="2" title="FLOOR0" titleNormalized="floor0" src="slide3.swf" size="10304" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset2">
+		<slide index="2" title="FLOOR0" titleNormalized="floor0" src="slide3.swf" size="10565" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -206,8 +191,6 @@ Floor Plans</text>
 			<notesNormalized/>
 			<notesHtml/>
 			<text>FLOOR0
-Floor 0
-Doors
 HOME
 Next
 Floor
@@ -236,14 +219,13 @@ Edit Suite 5
 Edit Suite 3
 0.15
 Toilets
-You Are Here
+YOU ARE HERE
 Lift
 Stairs
 Alex Carlson
 Georgia Stelling
-HannahMerridale
 Sean Thompson
-Door
+Hannah Merridale
 Door
 Digitisation Lab
 0.27
@@ -254,16 +236,18 @@ Door
 Door
 On your left
 Practice Room 5
-
 Practice Room 9
 Practice Room 6
 Practice Room 7
 Practice Room 4
 Practice Room 3
 Practice Room 2
-Practice Room 1</text>
+Practice Room 1
+Doors
+Door
+FLOOR 0</text>
 		</slide>
-		<slide index="3" title="FLOOR1" titleNormalized="floor1" src="slide4.swf" size="6178" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset3">
+		<slide index="3" title="FLOOR1" titleNormalized="floor1" src="slide4.swf" size="6163" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -316,7 +300,7 @@ Door
 Recording Room
 1.01A</text>
 		</slide>
-		<slide index="4" title="STARTING POINT" titleNormalized="starting point" src="slide5.swf" size="45489" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset4">
+		<slide index="4" title="STARTING POINT" titleNormalized="starting point" src="slide5.swf" size="45479" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -344,7 +328,7 @@ Earlham Hall (EH)
 Congregation Hall (CH)
 HOME</text>
 		</slide>
-		<slide index="5" title="LECTURE THEATRE BLOCK" titleNormalized="lecture theatre block" src="slide6.swf" size="49113" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset5">
+		<slide index="5" title="LECTURE THEATRE BLOCK" titleNormalized="lecture theatre block" src="slide6.swf" size="49183" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -367,7 +351,7 @@ Opposite the Library is the entrance to the lecture theatres (LT1, LT2, LT3, LT4
 HOME
 BACK</text>
 		</slide>
-		<slide index="6" title="THOMAS PAINE STUDY CENTRE (TPSC)" titleNormalized="thomas paine study centre (tpsc)" src="slide7.swf" size="5564" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset6">
+		<slide index="6" title="THOMAS PAINE STUDY CENTRE (TPSC)" titleNormalized="thomas paine study centre (tpsc)" src="slide7.swf" size="5553" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -394,7 +378,7 @@ The Thomas Paine Study Centre is the first large white build you encounter on th
 HOME
 BACK</text>
 		</slide>
-		<slide index="7" title="JULIAN STUDY CENTRE (JSC)" titleNormalized="julian study centre (jsc)" src="slide8.swf" size="50415" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset7">
+		<slide index="7" title="JULIAN STUDY CENTRE (JSC)" titleNormalized="julian study centre (jsc)" src="slide8.swf" size="50286" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -419,7 +403,7 @@ Continue past the Norwich Medical School and at the end of this building turn ri
 HOME
 BACK</text>
 		</slide>
-		<slide index="8" title="THE ENTERPRISE CENTRE (TEC)" titleNormalized="the enterprise centre (tec)" src="slide9.swf" size="45714" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset8">
+		<slide index="8" title="THE ENTERPRISE CENTRE (TEC)" titleNormalized="the enterprise centre (tec)" src="slide9.swf" size="45675" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -442,7 +426,7 @@ Cross the pedestrian crossing and bear right behind the Security Lodge. Continue
 HOME
 BACK</text>
 		</slide>
-		<slide index="9" title="ELIZABETH FRY BUILDING (EFRY)" titleNormalized="elizabeth fry building (efry)" src="slide10.swf" size="66369" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset9">
+		<slide index="9" title="ELIZABETH FRY BUILDING (EFRY)" titleNormalized="elizabeth fry building (efry)" src="slide10.swf" size="66415" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -468,7 +452,7 @@ Continue past the ZICER building, and the Lawrence Stenhouse Building, until you
 HOME
 BACK</text>
 		</slide>
-		<slide index="10" title="SPORTSPARK (SP)" titleNormalized="sportspark (sp)" src="slide11.swf" size="5335" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset10">
+		<slide index="10" title="SPORTSPARK (SP)" titleNormalized="sportspark (sp)" src="slide11.swf" size="5342" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -492,7 +476,7 @@ Cross the pedestrian crossing and bear right behind the Security Lodge. Continue
 HOME
 BACK</text>
 		</slide>
-		<slide index="11" title="EARLHAM HALL (EH)" titleNormalized="earlham hall (eh)" src="slide12.swf" size="47073" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset11">
+		<slide index="11" title="EARLHAM HALL (EH)" titleNormalized="earlham hall (eh)" src="slide12.swf" size="47124" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -519,7 +503,7 @@ Walk past this building and turn left so that the bike racks and car park are on
 HOME
 BACK</text>
 		</slide>
-		<slide index="12" title="CONGREGATION HALL (CHALL)" titleNormalized="congregation hall (chall)" src="slide13.swf" size="46353" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset12">
+		<slide index="12" title="CONGREGATION HALL (CHALL)" titleNormalized="congregation hall (chall)" src="slide13.swf" size="46427" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
@@ -544,7 +528,7 @@ Walk along the top of the square and turn left when you reach the Union building
 HOME
 BACK</text>
 		</slide>
-		<slide index="13" title="STUDENT HUB" titleNormalized="student hub" src="slide14.swf" size="44193" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="imgAsset13">
+		<slide index="13" title="STUDENT HUB" titleNormalized="student hub" src="slide14.swf" size="44194" advanceOnTime="0" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos/>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
